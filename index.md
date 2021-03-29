@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CHAOS v0.1
 
 You can use the [editor on GitHub](https://github.com/EliasOne/chaos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
